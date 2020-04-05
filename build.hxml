@@ -1,0 +1,5 @@
+-cp src
+-D analyzer-optimize
+-D psvita
+-main Main
+--cpp bin
